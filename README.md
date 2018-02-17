@@ -1,4 +1,4 @@
-# OpenPay Backend
+# Empty Koa Typescript Project
 
 Development Installation:
 * Install yarn
